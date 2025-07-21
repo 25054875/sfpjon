@@ -1,4 +1,0 @@
-text='Jonathan'
-print(text)
-
-
